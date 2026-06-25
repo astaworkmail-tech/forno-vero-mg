@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astaworkmail-tech.github.io/forno-vero-mg/sitemap.xml
